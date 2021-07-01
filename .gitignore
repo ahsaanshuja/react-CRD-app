@@ -1,0 +1,9 @@
+# lock files
+yarn-error.log
+yarn.lock
+package-lock.json
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
